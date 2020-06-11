@@ -16,4 +16,6 @@ These patches are peripheral,
 
 - https://github.com/HinTak/darling-newlkm/tree/remove-generated-files-fix
 
+- https://github.com/HinTak/darling-newlkm/tree/remove_spaces_in_slaballoc
+
 - https://github.com/HinTak/darling-python/tree/extending-ctypes-fix
