@@ -4,7 +4,7 @@ TODO.
 
 For now, just the URLs for the patch series:
 
-- https://github.com/HinTak/darling/tree/apple-fonttools-fixes
+- https://github.com/HinTak/darling/tree/apple-fonttools-fixes (merged in darlinghq/darling#813)
 
 - https://github.com/HinTak/darling-foundation/tree/apple-fonttools-fix
 
